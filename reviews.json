@@ -1,0 +1,274 @@
+{
+  "reviews": [
+    {
+      "professor": "Dr. Emily Johnson",
+      "department": "Computer Science",
+      "overall_rating": 4.5,
+      "difficulty": 3,
+      "workload": 4,
+      "teaching_quality": 5,
+      "review": "Dr. Johnson is an excellent professor who really cares about her students. Her lectures are engaging and she is always willing to provide extra help during office hours. The workload is challenging but manageable, and I learned a lot in her class."
+    },
+    {
+      "professor": "Professor William Lee",
+      "department": "Economics",
+      "overall_rating": 3.8,
+      "difficulty": 4,
+      "workload": 4,
+      "teaching_quality": 3,
+      "review": "Professor Lee has a lot of knowledge, but his teaching style is dry and he doesn't always explain concepts clearly. The workload is heavy, and you need to be prepared to put in a lot of time to do well in his class."
+    },
+    {
+      "professor": "Dr. Sarah Patel",
+      "department": "Biology",
+      "overall_rating": 4.2,
+      "difficulty": 4,
+      "workload": 4,
+      "teaching_quality": 4,
+      "review": "Dr. Patel is a passionate and dedicated professor who really wants her students to succeed. Her classes are challenging but she provides a lot of support and resources. The workload is heavy but the material is interesting and relevant."
+    },
+    {
+      "professor": "Professor Michael Rodriguez",
+      "department": "History",
+      "overall_rating": 3.5,
+      "difficulty": 3,
+      "workload": 3,
+      "teaching_quality": 3,
+      "review": "Professor Rodriguez has a lot of knowledge, but his lectures can be dry and disorganized. The workload is manageable, but I didn't always feel like I was getting a lot out of the class. He's not the most engaging professor, but he is fair and accessible."
+    },
+    {
+      "professor": "Dr. Jessica Hernandez",
+      "department": "Psychology",
+      "overall_rating": 4.8,
+      "difficulty": 4,
+      "workload": 4,
+      "teaching_quality": 5,
+      "review": "Dr. Hernandez is an amazing professor who really cares about her students. Her lectures are engaging and she does a great job of making complex concepts accessible. The workload is challenging but fair, and I left her class with a deep understanding of the material."
+    },
+    {
+      "professor": "Professor David Kim",
+      "department": "Business",
+      "overall_rating": 3.2,
+      "difficulty": 3,
+      "workload": 4,
+      "teaching_quality": 2,
+      "review": "Professor Kim's class was a disappointment. He doesn't seem to put much effort into his lectures, and he often seemed disorganized and unprepared. The workload is heavy, but I didn't feel like I was learning much. I wouldn't recommend taking his class."
+    },
+    {
+      "professor": "Dr. Olivia Nguyen",
+      "department": "English",
+      "overall_rating": 4.6,
+      "difficulty": 4,
+      "workload": 5,
+      "teaching_quality": 5,
+      "review": "Dr. Nguyen is an exceptional professor who really challenges her students to think critically and improve their writing skills. Her lectures are insightful and engaging, and she provides detailed feedback on assignments. The workload is heavy, but I left her class as a much stronger writer."
+    },
+    {
+      "professor": "Professor Aisha Malik",
+      "department": "Political Science",
+      "overall_rating": 4.0,
+      "difficulty": 4,
+      "workload": 4,
+      "teaching_quality": 4,
+      "review": "Professor Malik is a knowledgeable and fair instructor. Her lectures are well-structured and she encourages class participation. The workload is challenging but manageable, and I left her class with a deeper understanding of political science."
+    },
+    {
+      "professor": "Dr. Liam Cho",
+      "department": "Chemistry",
+      "overall_rating": 3.9,
+      "difficulty": 5,
+      "workload": 5,
+      "teaching_quality": 4,
+      "review": "Dr. Cho's class was tough, but I learned a lot. His lectures are clear and he is always willing to provide extra help. The workload is heavy, with frequent problem sets and exams, but I feel well-prepared for future chemistry courses."
+    },
+    {
+      "professor": "Professor Isabella Rossi",
+      "department": "Art History",
+      "overall_rating": 4.3,
+      "difficulty": 3,
+      "workload": 3,
+      "teaching_quality": 5,
+      "review": "Professor Rossi is an engaging and knowledgeable instructor. Her lectures are interesting and she does a great job of bringing the material to life. The workload is manageable, and I left her class with a deeper appreciation for art history."
+    },
+    {
+      "professor": "Dr. Elijah Gomez",
+      "department": "Mathematics",
+      "overall_rating": 3.6,
+      "difficulty": 4,
+      "workload": 4,
+      "teaching_quality": 3,
+      "review": "Dr. Gomez is a brilliant mathematician, but his teaching style can be a bit dry and difficult to follow at times. The workload is challenging, with frequent problem sets and exams. I would recommend getting help from the TA or attending office hours to succeed in his class."
+    },
+    {
+      "professor": "Professor Sophia Diaz",
+      "department": "Sociology",
+      "overall_rating": 4.4,
+      "difficulty": 3,
+      "workload": 4,
+      "teaching_quality": 5,
+      "review": "Professor Diaz is an exceptional instructor who really cares about her students. Her lectures are engaging and she does a great job of connecting the material to real-world issues. The workload is manageable, and I left her class with a much deeper understanding of sociology."
+    },
+    {
+      "professor": "Dr. Ethan Ramirez",
+      "department": "Physics",
+      "overall_rating": 3.8,
+      "difficulty": 5,
+      "workload": 5,
+      "teaching_quality": 4,
+      "review": "Dr. Ramirez's class was challenging, but I learned a lot. His lectures are clear and he is always available to provide extra help. The workload is heavy, with frequent problem sets and exams, but I feel well-prepared for future physics courses."
+    },
+    {
+      "professor": "Professor Mia Fernandez",
+      "department": "Spanish",
+      "overall_rating": 4.7,
+      "difficulty": 4,
+      "workload": 4,
+      "teaching_quality": 5,
+      "review": "Professor Fernandez is an outstanding Spanish instructor. Her classes are engaging and interactive, and she does a great job of helping students improve their language skills. The workload is challenging, but manageable, and I left her class with a much stronger command of the Spanish language."
+    },
+    {
+      "professor": "Dr. Noah Gupta",
+      "department": "Philosophy",
+      "overall_rating": 4.1,
+      "difficulty": 4,
+      "workload": 4,
+      "teaching_quality": 4,
+      "review": "Dr. Gupta is a knowledgeable and thought-provoking professor. His lectures are engaging and he encourages students to think critically about complex philosophical concepts. The workload is challenging, but I left his class with a deeper understanding of philosophy and a greater appreciation for the subject."
+    },
+    {
+      "professor": "Professor Ava Gonzalez",
+      "department": "Marketing",
+      "overall_rating": 3.7,
+      "difficulty": 3,
+      "workload": 4,
+      "teaching_quality": 3,
+      "review": "Professor Gonzalez's class was a mixed bag. She is knowledgeable about marketing, but her lectures can be dry and disorganized at times. The workload is heavy, with frequent group projects and presentations. I felt like I learned some valuable concepts, but the class could have been more engaging."
+    },
+    {
+      "professor": "Dr. Isabella Morales",
+      "department": "Nursing",
+      "overall_rating": 4.9,
+      "difficulty": 5,
+      "workload": 5,
+      "teaching_quality": 5,
+      "review": "Dr. Morales is an exceptional nursing professor who really cares about her students. Her lectures are engaging and she does a great job of preparing us for the rigor of the nursing program. The workload is challenging, with frequent exams and clinical rotations, but I feel well-equipped to succeed in the nursing field thanks to her guidance."
+    },
+    {
+      "professor": "Professor Liam Gomez",
+      "department": "Accounting",
+      "overall_rating": 3.3,
+      "difficulty": 4,
+      "workload": 4,
+      "teaching_quality": 3,
+      "review": "Professor Gomez's accounting class was a struggle. His lectures can be dry and he doesn't always explain concepts clearly. The workload is heavy, with frequent problem sets and exams. I didn't find his class particularly engaging or helpful in preparing me for a career in accounting."
+    },
+    {
+      "professor": "Dr. Olivia Flores",
+      "department": "Environmental Science",
+      "overall_rating": 4.5,
+      "difficulty": 4,
+      "workload": 4,
+      "teaching_quality": 5,
+      "review": "Dr. Flores is a passionate and knowledgeable professor who really cares about environmental issues. Her lectures are engaging and she does a great job of connecting the course material to real-world problems. The workload is challenging, but I left her class with a much deeper understanding of environmental science and a strong desire to make a positive impact on the planet."
+    },
+    {
+      "professor": "Professor Aiden Ramirez",
+      "department": "Film Studies",
+      "overall_rating": 4.2,
+      "difficulty": 3,
+      "workload": 3,
+      "teaching_quality": 4,
+      "review": "Professor Ramirez is an engaging and insightful instructor. His lectures on film history and theory are fascinating, and he does a great job of encouraging class discussions. The workload is manageable, with a few papers and projects, and I left his class with a much deeper appreciation for the art of filmmaking."
+    },
+    {
+      "professor": "Dr. Sophia Hernandez",
+      "department": "Biology",
+      "overall_rating": 4.6,
+      "difficulty": 4,
+      "workload": 4,
+      "teaching_quality": 5,
+      "review": "Dr. Hernandez is an exceptional biology professor. Her lectures are clear and engaging, and she does a great job of explaining complex concepts. The workload is challenging, but fair, and I left her class with a much stronger understanding of the subject matter. I would highly recommend taking her courses."
+    },
+    {
+      "professor": "Professor Ethan Diaz",
+      "department": "Computer Engineering",
+      "overall_rating": 3.9,
+      "difficulty": 5,
+      "workload": 5,
+      "teaching_quality": 4,
+      "review": "Professor Diaz's computer engineering class was rigorous, but I learned a lot. His lectures can be technical, but he is always willing to provide extra help and resources. The workload is heavy, with frequent programming assignments and projects, but I feel well-prepared for future courses in the field."
+    },
+    {
+      "professor": "Dr. Mia Patel",
+      "department": "Psychology",
+      "overall_rating": 4.4,
+      "difficulty": 4,
+      "workload": 4,
+      "teaching_quality": 5,
+      "review": "Dr. Patel is an exceptional psychology professor. Her lectures are engaging and she does a great job of connecting the course material to real-world applications. The workload is challenging, but manageable, and I left her class with a much deeper understanding of human behavior and cognition."
+    },
+    {
+      "professor": "Professor Isabella Gomez",
+      "department": "Business Administration",
+      "overall_rating": 3.7,
+      "difficulty": 4,
+      "workload": 4,
+      "teaching_quality": 3,
+      "review": "Professor Gomez's business administration class was a mixed bag. She is knowledgeable about the subject matter, but her teaching style can be dry and disorganized. The workload is heavy, with frequent case studies and group projects. I felt like I learned some valuable concepts, but the class could have been more engaging and practical."
+    },
+    {
+      "professor": "Dr. Noah Flores",
+      "department": "History",
+      "overall_rating": 4.3,
+      "difficulty": 3,
+      "workload": 4,
+      "teaching_quality": 5,
+      "review": "Dr. Flores is a brilliant and engaging history professor. His lectures are fascinating, and he does a great job of connecting historical events to contemporary issues. The workload is manageable, with a few papers and exams, and I left his class with a much deeper appreciation for history and its relevance to the modern world."
+    },
+    {
+      "professor": "Professor Ava Ramirez",
+      "department": "Art",
+      "overall_rating": 4.6,
+      "difficulty": 4,
+      "workload": 4,
+      "teaching_quality": 5,
+      "review": "Professor Ramirez is an exceptional art instructor. Her classes are engaging and hands-on, and she provides detailed feedback to help students improve their skills. The workload is challenging, with frequent projects and critiques, but I left her class as a much stronger artist with a deeper understanding of the creative process."
+    },
+    {
+      "professor": "Dr. Liam Morales",
+      "department": "Mathematics",
+      "overall_rating": 3.5,
+      "difficulty": 5,
+      "workload": 5,
+      "teaching_quality": 3,
+      "review": "Dr. Morales is a brilliant mathematician, but his teaching style can be difficult to follow. His lectures are dense and he doesn't always provide clear explanations. The workload is extremely heavy, with frequent problem sets and exams. I would recommend getting help from the TA or attending office hours to succeed in his class."
+    },
+    {
+      "professor": "Professor Elijah Fernandez",
+      "department": "English",
+      "overall_rating": 4.1,
+      "difficulty": 4,
+      "workload": 4,
+      "teaching_quality": 4,
+      "review": "Professor Fernandez is a knowledgeable and engaging English instructor. His lectures on literature and writing are thought-provoking, and he provides detailed feedback on assignments. The workload is challenging, but manageable, and I left his class as a stronger writer and critical thinker."
+    },
+    {
+      "professor": "Dr. Sophia Gupta",
+      "department": "Physics",
+      "overall_rating": 4.7,
+      "difficulty": 5,
+      "workload": 5,
+      "teaching_quality": 5,
+      "review": "Dr. Gupta is an exceptional physics professor who really cares about her students. Her lectures are clear and engaging, and she does a great job of explaining complex concepts. The workload is extremely challenging, with frequent problem sets and exams, but I left her class with a deep understanding of the subject matter and a strong foundation for future physics courses."
+    },
+    {
+      "professor": "Professor Aiden Gonzalez",
+      "department": "Marketing",
+      "overall_rating": 3.9,
+      "difficulty": 4,
+      "workload": 4,
+      "teaching_quality": 4,
+      "review": "Professor Gonzalez's marketing class was challenging but informative. His lectures are well-structured and he does a good job of connecting the course material to real-world marketing strategies. The workload is heavy, with frequent group projects and presentations, but I left the class with a much stronger understanding of marketing principles and practices."
+    }
+  ]
+}
