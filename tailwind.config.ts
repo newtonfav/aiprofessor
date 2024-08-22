@@ -10,12 +10,21 @@ const config: Config = {
     extend: {
       colors: {
         primary: {
+          100: "#EEEEEE",
           200: "#FFFFFF",
           500: "#2476EC",
         },
       },
       boxShadow: {
         even: "0px 0px 10px 0px rgba(0, 0, 0, 0.1)",
+      },
+      keyframes: {
+        rotate: {
+          to: { transform: "rotate(1turn)" },
+        },
+      },
+      animation: {
+        rotate: "rotate 1s infinite linear",
       },
       screens: {
         largerDesktop: { max: "1535px" },
