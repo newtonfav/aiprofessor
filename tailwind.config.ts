@@ -14,6 +14,9 @@ const config: Config = {
           500: "#2476EC",
         },
       },
+      boxShadow: {
+        even: "0px 0px 10px 0px rgba(0, 0, 0, 0.1)",
+      },
       screens: {
         largerDesktop: { max: "1535px" },
         // => @media (max-width: 1535px) { ... }
