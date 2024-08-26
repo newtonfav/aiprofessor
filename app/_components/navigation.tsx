@@ -2,7 +2,7 @@ import Link from "next/link";
 
 export default async function Navigation() {
   return (
-    <nav className="z-10 relative">
+    <nav className="z-10 relative ">
       <ul
         id="nav-items"
         className="md:flex gap-10 transition-all font-semibold duration-500 items-center md:static absolute left-0 bg-white midPhone:text-[1rem] midPhone:text-primary-700 midPhone:-left-[6rem] midPhone:h-[8rem] md:bg-transparent md:w-auto hidden midPhone:p-3"
