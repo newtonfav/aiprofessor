@@ -76,6 +76,6 @@ export async function POST(req: Request) {
     return response.toDataStreamResponse();
   } catch (error) {
     console.error(error);
-    throw new Error("Something went wrong!");
+    throw new Error("Something went wrong! Try again later.");
   }
 }
