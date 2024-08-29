@@ -1,10 +1,7 @@
-import { streamText, convertToCoreMessages, generateText } from "ai";
-import { google } from "@ai-sdk/google";
+import { streamText, convertToCoreMessages } from "ai";
 import { Pinecone } from "@pinecone-database/pinecone";
 import { GoogleGenerativeAI } from "@google/generative-ai";
-import { z } from "zod";
 import { bedrock } from "@ai-sdk/amazon-bedrock";
-import { NextResponse } from "next/server";
 
 const genAI = new GoogleGenerativeAI(
   process.env.GOOGLE_GENERATIVE_AI_API_KEY as string
