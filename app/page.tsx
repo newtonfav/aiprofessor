@@ -17,7 +17,7 @@ export default function Home() {
         />
       </div>
 
-      <div className="flex flex-col items-center text-center md:text-end md:items-end md:mr-5">
+      <div className="flex flex-col items-center text-center -ml-20 md:text-end md:mr-5">
         <h1 className="text-3xl md:text-4xl text-primary-500 mb-2 font-extrabold">
           Find the right professor!
         </h1>
