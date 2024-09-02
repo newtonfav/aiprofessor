@@ -17,14 +17,6 @@ export default async function Navigation() {
         </li>
         <li className="midPhone:mb-2">
           <Link
-            href="/github"
-            className="hover:text-accent-400 transition-colors"
-          >
-            GitHub
-          </Link>
-        </li>
-        <li className="midPhone:mb-2">
-          <Link
             href="/about"
             className="hover:text-accent-400 transition-colors"
           >
