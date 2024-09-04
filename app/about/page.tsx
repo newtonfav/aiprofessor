@@ -16,10 +16,10 @@ export default function About() {
         artificial intelligence to help students like you find the best
         professors for your academic journey. We understand that choosing the
         right professor can make a world of difference in your learning
-        experience and academic success. How Does It Work? AiProfessor uses
-        advanced Retrieval Augmented Generation (RAG) technology to provide
-        personalized professor recommendations based on your specific needs and
-        preferences.
+        experience and academic success. <span>How Does It Work?</span>{" "}
+        AiProfessor uses advanced Retrieval Augmented Generation (RAG)
+        technology to provide personalized professor recommendations based on
+        your specific needs and preferences.
       </div>
 
       <div>
