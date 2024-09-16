@@ -9,11 +9,12 @@ export default function Logo() {
       <Image
         src={logo}
         quality={100}
-        height="40"
-        width="40"
+        height={40}
+        width={40}
         alt="AiProfessor logo"
+        className="midPhone:w-[2rem]"
       />
-      <div className="font-bold text-xl">AiProfessor</div>
+      <div className="font-bold text-xl midPhone:text-base">AiProfessor</div>
     </Link>
   );
 }

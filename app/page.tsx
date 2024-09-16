@@ -5,19 +5,19 @@ import Link from "next/link";
 
 export default function Home() {
   return (
-    <div className="flex flex-col md:flex-row justify-around  items-center h-[80dvh] p-4">
-      <div className="md:ml-14 mb-6 md:mb-0">
+    <div className="flex flex-row tabletCustom:flex-col justify-around tabletCustom:justify-center  items-center h-[80dvh] p-4">
+      <div className="md:ml-14 mb-6 tabletCustom:mb-12 tabletCustom:mt-8 ">
         <Image
           src={illustration}
           alt="illustration"
           quality={100}
           width={350} // Adjusted width for better spacing
           height={350} // Adjusted height for better spacing
-          className="w-full max-w-xs md:max-w-sm" // Control max width on large screens
+          className="w-full tabletCustom:w-[20rem]" // Control max width on large screens
         />
       </div>
 
-      <div className="flex flex-col items-center text-center -ml-20 md:text-end md:mr-5">
+      <div className="flex flex-col items-center text-center tabletCustom:-ml-0 -ml-20 md:text-end tabletCustom:mb-3 md:mr-5">
         <h1 className="text-3xl md:text-4xl text-primary-500 mb-2 font-extrabold">
           Find the right professor!
         </h1>
